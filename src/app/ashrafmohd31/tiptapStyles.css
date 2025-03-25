@@ -1,0 +1,13 @@
+.editor-container {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    min-height: 200px;
+    background-color: white;
+  }
+  
+  .editor-content {
+    outline: none;
+    min-height: 150px;
+  }
+  
